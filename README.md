@@ -26,33 +26,37 @@ Here are my key skills :
 
   <p style="display: inline-block;">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manjeetio&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact"/>
+   
   </p>
-</div>
-
-
-
-##new
-<div style="padding: 4rem 2rem;">
-  <div style="display: inline-block;">
-    <p>
-      <img src="https://github-readme-stats.vercel.app/api?username=manjeetio&theme=dark&hide_border=true&include_all_commits=true&count_private=true"/>
-    </p>
-
-    <p>
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=manjeetio&theme=dark&hide_border=true"/>
-    </p>
+  
+  
+  
+  
+  
+  ##new
+  
+  
+  <div style="padding: 4rem 2rem;">
+  <div style="width: 50%; display: inline-block; float: left;">
+    <img src="https://github-readme-stats.vercel.app/api?username=manjeetio&theme=dark&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats">
   </div>
 
-  <div style="display: inline-block;">
-    <p>
-      <img src="https://github-contributor-stats.vercel.app/api?username=manjeetio&limit=5&theme=dark&combine_all_yearly_contributions=true)"/>
-    </p>
+  <div style="width: 50%; display: inline-block; float: left;">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=manjeetio&theme=dark&hide_border=true" alt="GitHub Streak">
+  </div>
 
-    <p>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manjeetio&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact"/>
-    </p>
+  <div style="width: 50%; display: inline-block; float: left;">
+    <img src="https://github-contributor-stats.vercel.app/api?username=manjeetio&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="GitHub Contributors">
+  </div>
+
+  <div style="width: 50%; display: inline-block; float: left;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manjeetio&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="GitHub Top Languages">
   </div>
 </div>
+
+  
+
+
 
 
 
