@@ -24,7 +24,7 @@ I'm Manjeet from India, and I do Coding , Film-making and Self Improvement. In c
 
 <img align="left" width="47%" src= "https://github-readme-stats.vercel.app/api/top-langs/?username=manjeetio&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact"/>
 
-<img align="left" width="47%" src="https://github-readme-streak-stats.herokuapp.com/?user=manjeetio&theme=dark&hide_border=true"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=manjeetio&theme=dark&hide_border=true"/>
 
 
 
