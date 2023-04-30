@@ -2,13 +2,17 @@
 **`(Java Developer/ Film-making/ UI/UX)`**
 
 I'm Manjeet from India, and I do Coding , Film-making and Self Improvement. In coding I really enjoy learning languages like JAVA, C , C++ , SQL as well as work in Filmmaking. I also enjoy multiple things including UI/UX designing and content creation in general.
+---
 
 ## Projects 
 Here are some of my projects:
+---
 ## Skills & Experience
 Here are my key skills :
+---
 
 ## Stats
+---
 ### Github:
 
   <div align="center">
@@ -21,8 +25,18 @@ Here are my key skills :
   <img src="https://github-contributor-stats.vercel.app/api?username=manjeetio&limit=5&theme=dark&hide_border=true&combine_all_yearly_contributions=true" alt="Contribution Stats" height="140"/>
 </p>
 
-   
 
+LeetCode:
+  <div align="center">
+  <img src="https://leetcard.jacoblin.cool/manjeet_io?ext=contest" alt="Leetcode Stats" height="250"/>
+
+
+ 
+
+ 
+
+
+  
 
 
 ---
