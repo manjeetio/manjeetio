@@ -7,13 +7,14 @@ I'm Manjeet from India, and I do Coding , Film-making and Self Improvement. In c
 ## Projects 
 Here are some of my projects:
 
-
+Right Now NONE
 
 ---
 ## Skills & Experience
 ### Skills:
 ![My Skills](https://skillicons.dev/icons?i=java,c,cpp,mysql,html,css,linux,figma,git,github,vscode,discord,linkedin,pr,ae&theme=dark)
 ### Experience:
+Right Now NONE
 
 ---
 
