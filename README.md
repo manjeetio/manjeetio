@@ -9,16 +9,16 @@ Here are some of my projects:
 
 Right Now NONE
 
----
+
 ## Skills & Experience
 ### Skills:
 ![My Skills](https://skillicons.dev/icons?i=java,c,cpp,mysql,html,css,linux,figma,git,github,vscode,discord,linkedin,pr,ae&theme=dark)
 ### Experience:
 Right Now NONE
 
----
 
-## Stats
+
+## Statistics
 ### Github:
 
  <div align="center">
@@ -38,17 +38,6 @@ Right Now NONE
 
 </p>
  
-
- 
-
-
-  
-
-
----
-##Contact
- 
- mail / Links/ etc
 
 Thanks for visiting my profiile!
 
