@@ -20,8 +20,11 @@ I'm Manjeet from India, and I do Coding , Film-making and Self Improvement. In c
 ## Stats:
 
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=manjeetio&theme=dark&hide_border=true&include_all_commits=true&count_private=true"/>
-<img align="left" width="47%" align="left" width="47%" src= "https://github-readme-stats.vercel.app/api/top-langs/?username=manjeetio&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact"/>
+
+<img align="left" width="47%" src= "https://github-readme-stats.vercel.app/api/top-langs/?username=manjeetio&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact"/>
+
 <img align="left" width="47%" src="https://github-readme-streak-stats.herokuapp.com/?user=manjeetio&theme=dark&hide_border=true"/>
+
 <img src="https://github-contributor-stats.vercel.app/api?username=manjeetio&limit=5&theme=dark&hide_border=true&combine_all_yearly_contributions=true"/>
 
 
