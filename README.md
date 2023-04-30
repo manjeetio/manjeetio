@@ -31,10 +31,7 @@ Here are my key skills :
 
 
 
-<img align="left" width="47%" src=""/> 
-<img align="left" width="45%" src=""/>
-<img align="left" width="47%" src=""/>
-<img  src=""/> 
+
 ---
 ##Contact
  
