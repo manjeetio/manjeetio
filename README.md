@@ -26,11 +26,12 @@ Here are my key skills :
 </p>
 
 
-LeetCode:
-  <div align="center">
+### LeetCode:
+  
+  
   <img src="https://leetcard.jacoblin.cool/manjeet_io?ext=contest" alt="Leetcode Stats" height="250"/>
 
-
+</p>
  
 
  
