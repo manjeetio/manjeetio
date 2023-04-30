@@ -2,7 +2,7 @@
 **`Digital Craftsman (Developer/Filmmaker)`**
 
 ## About Me: 
-
+"Passionate BCA student , ready to take on new opportunities and challenges in the dynamic world of technology."
 
 ## Familiar With :
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) 
