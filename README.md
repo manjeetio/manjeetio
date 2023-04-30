@@ -11,22 +11,48 @@ Here are my key skills :
 ## Stats
 ### Github:
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=manjeetio&theme=dark&hide_border=true&include_all_commits=true&count_private=true"/>
-</p>
+<div style="padding: 4rem 2rem;">
+  <p style="display: inline-block;">
+    <img src="https://github-readme-stats.vercel.app/api?username=manjeetio&theme=dark&hide_border=true&include_all_commits=true&count_private=true"/>
+  </p>
 
-<p align="right">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=manjeetio&theme=dark&hide_border=true"/>
-</p>
+  <p style="display: inline-block;">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=manjeetio&theme=dark&hide_border=true"/>
+  </p>
 
-<p align="left">
-  <img src="https://github-contributor-stats.vercel.app/api?username=manjeetio&limit=5&theme=dark&combine_all_yearly_contributions=true)"/>
-</p>
+  <p style="display: inline-block;">
+    <img src="https://github-contributor-stats.vercel.app/api?username=manjeetio&limit=5&theme=dark&combine_all_yearly_contributions=true)"/>
+  </p>
 
-<p align="right">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manjeetio&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact"/>
-</p>
+  <p style="display: inline-block;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manjeetio&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact"/>
+  </p>
+</div>
 
+
+
+##new
+<div style="padding: 4rem 2rem;">
+  <div style="display: inline-block;">
+    <p>
+      <img src="https://github-readme-stats.vercel.app/api?username=manjeetio&theme=dark&hide_border=true&include_all_commits=true&count_private=true"/>
+    </p>
+
+    <p>
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=manjeetio&theme=dark&hide_border=true"/>
+    </p>
+  </div>
+
+  <div style="display: inline-block;">
+    <p>
+      <img src="https://github-contributor-stats.vercel.app/api?username=manjeetio&limit=5&theme=dark&combine_all_yearly_contributions=true)"/>
+    </p>
+
+    <p>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manjeetio&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact"/>
+    </p>
+  </div>
+</div>
 
 
 
