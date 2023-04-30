@@ -11,7 +11,9 @@ Here are some of my projects:
 
 ---
 ## Skills & Experience
-
+### Skills:
+![My Skills](https://skillicons.dev/icons?i=java,c,cpp,mysql,html,css,linux,figma,git,github,vscode,discord,linkedin,pr,ae&theme=dark)
+### Experience:
 
 ---
 
