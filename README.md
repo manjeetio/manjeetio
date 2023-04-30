@@ -9,11 +9,11 @@ Here are some of my projects:
 Here are my key skills :
 
 ## Stats
-<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=manjeetio&theme=dark&hide_border=true&include_all_commits=true&count_private=true"/> 
+<img src="https://github-readme-stats.vercel.app/api?username=manjeetio&theme=dark&hide_border=true&include_all_commits=true&count_private=true"/> 
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=manjeetio&theme=dark&hide_border=true"/>
+<img align="left" width="47%" src="https://github-readme-streak-stats.herokuapp.com/?user=manjeetio&theme=dark&hide_border=true"/>
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=manjeetio&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact"/> 
-<img src="https://github-contributor-stats.vercel.app/api?username=manjeetio&limit=5&theme=dark&combine_all_yearly_contributions=true)"/>
+<img align="left" width="47%" src="https://github-contributor-stats.vercel.app/api?username=manjeetio&limit=5&theme=dark&combine_all_yearly_contributions=true)"/>
 
 ---
 ##Contact
