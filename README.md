@@ -38,12 +38,8 @@ Right Now NONE
 
 </p>
  
-
+ <div align="left">
 Thanks for visiting my profiile!
-
-[![](https://visitcount.itsvg.in/api?id=manjeetio&icon=3&color=12)](https://visitcount.itsvg.in)
-
-
 
 
 
