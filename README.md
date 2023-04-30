@@ -2,7 +2,7 @@
 
 **`Digital Craftsman (Developer/Filmmaker)`**
 
-![](https://leetcode.com/manjeet_io/)
+![](https://leetcode.com/manjeet_io?site=cn/)
 
 
 ## Known Technologies
