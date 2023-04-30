@@ -28,8 +28,6 @@ I'm Manjeet from India, and I do Coding , Film-making and Self Improvement. In c
 
 
 
----
-[![](https://visitcount.itsvg.in/api?id=manjeetio&icon=4&color=10)](https://visitcount.itsvg.in)
 
 
 
