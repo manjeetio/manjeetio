@@ -15,9 +15,10 @@ Here are my key skills :
   <img src="https://github-readme-stats.vercel.app/api?username=manjeetio&theme=dark&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" height="150"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manjeetio&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="GitHub Top Languages" height="150"/>
     
+   <div align="center">
    
   <img src="https://github-readme-streak-stats.herokuapp.com?user=manjeetio&theme=dark&hide_border=true" alt="Streak Stats" height="150"/>
-  <img src="https://github-contributor-stats.vercel.app/api?username=manjeetio&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="Contribution Stats" height="150"/>
+  <img src="https://github-contributor-stats.vercel.app/api?username=manjeetio&limit=5&theme=dark&hide_border=true&combine_all_yearly_contributions=true" alt="Contribution Stats" height="150"/>
 </p>
 
    
