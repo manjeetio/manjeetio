@@ -1,5 +1,7 @@
-# Hey there! MANJEET HERE
+# Hey there! Manjeet Here 👋
 **`Digital Craftsman (Developer/Filmmaker)`**
+
+## About Me: 
 
 
 ## Familiar With :
