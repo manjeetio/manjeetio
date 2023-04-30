@@ -3,7 +3,6 @@
 
 I'm Manjeet from India, and I do Coding , Film-making and Self Improvement. In coding I really enjoy learning languages like JAVA, C , C++ , SQL as well as work in Filmmaking. I also enjoy  multiple things including UI/UX designing and content Creation in general. 
 
-<img src= ""/>
 
 ## Familiar With :
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) 
@@ -19,16 +18,18 @@ I'm Manjeet from India, and I do Coding , Film-making and Self Improvement. In c
 
 
 ## Stats:
+<img align="left" width="47%" src="https://github-contributor-stats.vercel.app/api?username=manjeetio&limit=5&theme=dark&hide_border=true&combine_all_yearly_contributions=true"/>
 <img src= "https://github-readme-stats.vercel.app/api?username=manjeetio&theme=dark&hide_border=true&include_all_commits=true&count_private=true"/>
+<img align="left" width="47%" src= "https://github-readme-stats.vercel.app/api/top-langs/?username=manjeetio&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact"/>
+
 <img src= "https://github-readme-streak-stats.herokuapp.com/?user=manjeetio&theme=dark&hide_border=true"/>
-<img src= "https://github-readme-stats.vercel.app/api/top-langs/?username=manjeetio&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact"/>
-<img src= ""/>
 
 
-## Top Contributed Repo:
-![](https://github-contributor-stats.vercel.app/api?username=manjeetio&limit=5&theme=dark&combine_all_yearly_contributions=true)
-## Trophies:
-![](https://github-profile-trophy.vercel.app/?username=manjeetio&theme=radical&no-frame=true&no-bg=true&margin-w=4)
+
+
 ---
 [![](https://visitcount.itsvg.in/api?id=manjeetio&icon=4&color=10)](https://visitcount.itsvg.in)
+
+
+
 
