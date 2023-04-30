@@ -12,7 +12,7 @@ Here are my key skills :
 ### Github:
 
   <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=manjeetio&theme=dark&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" height="155"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=manjeetio&theme=dark&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" height="165"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manjeetio&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="GitHub Top Languages" height="155"/>
     
    <div align="center">
