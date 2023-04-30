@@ -37,9 +37,4 @@ Right Now NONE
   <img src="https://leetcard.jacoblin.cool/manjeet_io?ext=contest" alt="Leetcode Stats" height="250"/>
 
 </p>
- 
- <div align="left">
-Thanks for visiting my profiile!
-
-
 
