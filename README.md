@@ -26,6 +26,20 @@ I'm Manjeet from India, and I do Coding , Film-making and Self Improvement. In c
 
 <img align="left" width="47%" src="https://github-readme-streak-stats.herokuapp.com/?user=manjeetio&theme=dark&hide_border=true"/>
 
+# experiment
+
+<div style="display: flex; flex-wrap: wrap; justify-content: space-between; padding: 20px;">
+  <div style="width: 48%;">
+    <img style="width: 100%; display: block;" src="https://github-readme-stats.vercel.app/api?username=your-username&theme=dark&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub stats">
+  </div>
+  <div style="width: 48%;">
+    <img style="width: 100%; display: block;" src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=dark&hide_border=true" alt="GitHub streak">
+  </div>
+  <div style="width: 100%; margin-top: 20px;">
+    <img style="width: 100%; display: block;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Most used languages">
+  </div>
+</div>
+
 
 
 
