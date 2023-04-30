@@ -5,7 +5,7 @@ I'm Manjeet from India, and I do Coding , Film-making and Self Improvement. In c
 
 ## Projects
 Here are some of my projects:
-## Skills
+## Skills & Experience
 Here are my key skills :
 ## Stats
 Github Stats , Leetcode Stats , Repo stats
