@@ -17,22 +17,6 @@ I'm Manjeet from India, and I do Coding , Film-making and Self Improvement. In c
 ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 
-## Stats:
-
-<div style="width: 1000px; margin: 0 auto; display: flex; flex-wrap: wrap; justify-content: space-between; padding: 20px;">
-  <div style="width: 47%; margin-bottom: 20px;">
-    <img style="width: 47%; display: block;" src="https://github-readme-stats.vercel.app/api?username=manjeetio&theme=dark&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub stats">
-  </div>
-  <div style="width: 47%; margin-bottom: 20px;">
-    <img style="width: 47%; display: block;" src="https://github-contributor-stats.vercel.app/api?username=manjeetio&limit=5&theme=dark&hide_border=true&combine_all_yearly_contributions=true" alt="Top contributors">
-  </div>
-  <div style="width: 45%; margin-bottom: 20px;">
-    <img style="width: 47%; display: block;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=manjeetio&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Most used languages">
-  </div>
-  <div style="width: 47%; margin-bottom: 20px;">
-    <img style="width: 47%; display: block;" src="https://github-readme-streak-stats.herokuapp.com/?user=manjeetio&theme=dark&hide_border=true" alt="GitHub streak">
-  </div>
-</div>
 
 
 
