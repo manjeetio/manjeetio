@@ -1,7 +1,7 @@
 # Hey there! Manjeet Here 👋
 **`Digital Craftsman (Developer/Filmmaker)`**
 
-I'm Manjeet from India, and I do content on Filmmaking , Self Improvement and about Coding.In coding I really enjoy learning languages like JAVA, C , C++ , SQL as well as work in Filmmaking. I also enjoy  multiple things including UI/UX designing  and content Creation in general. 
+I'm Manjeet from India, and I do Coding , Film-making and Self Improvement. In coding I really enjoy learning languages like JAVA, C , C++ , SQL as well as work in Filmmaking. I also enjoy  multiple things including UI/UX designing and content Creation in general. 
 
 
 ## Familiar With :
@@ -21,7 +21,7 @@ I'm Manjeet from India, and I do content on Filmmaking , Self Improvement and ab
 ![](https://github-readme-stats.vercel.app/api?username=manjeetio&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=manjeetio&theme=dark&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=manjeetio&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
-[![Manjeet's LeetCode](https://leetcode-stats-six.vercel.app/?manjeet_io&theme=dark)](https://github.com/KnlnKS/leetcode-stats)
+[![Manjeet's LeetCode](https://leetcode-stats-six.vercel.app/?username=KnlnKS&theme=dark)](https://github.com/KnlnKS/leetcode-stats)
 
 ## Top Contributed Repo:
 ![](https://github-contributor-stats.vercel.app/api?username=manjeetio&limit=5&theme=dark&combine_all_yearly_contributions=true)
